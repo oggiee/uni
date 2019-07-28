@@ -1,0 +1,54 @@
+<html>
+<head>
+<title>Oğuzhan Mete Yüvrük</title>
+</head>
+
+<body bgcolor="#8c5b5b">
+
+<table width="1500" height="900" align="center" border="7" bgcolor="#d4c4c4">
+<tr height="70">
+<td align="center" <p><font face="tahoma" color="maroon" size="4">Üniversite Adı</td><td align="center" <p><font face="tahoma" color="maroon" size="4">2018 BŞ</td>
+<td align="center" <p><font face="tahoma" color="maroon" size="4">2018 Puan</td><td align="center" <p><font face="tahoma" color="maroon" size="4">Bölümü</td>
+</tr>
+<tr height="40">
+<td align="center" <p><font face="tahoma" color="maroon" size="3"><a href="http://www.ceng.mu.edu.tr">Muğla Sıtkı Koçman(ing)</a></td><td align="center">74500</td><td align="center">369,488</td><td align="center" <p><font face="tahoma" color="maroon" size="3">Bilgisayar Müh.</td>
+</tr>
+<tr height="40">
+<td align="center" <p><font face="tahoma" color="maroon" size="3"><a href="https://akbis.adu.edu.tr/birimler.asp?birim=364578">Aydın Adnan M.(ing)</a></td><td align="center">93000</td><td align="center">348,828</td><td align="center" <p><font face="tahoma" color="maroon" size="3">Bilgisayar Müh.</td>
+</tr>
+<tr height="40">
+<td align="center" <p><font face="tahoma" color="maroon" size="3"><a href="https://bilgisayar.bakircay.edu.tr">İzmir Bakırçay</a></td><td align="center">101000</td>
+<td align="center">340,555</td><td align="center" <p><font face="tahoma" color="maroon" size="3">Bilgisayar Müh.</td>
+</tr>
+
+<tr height="40">
+<td align="center" <p><font face="tahoma" color="maroon" size="3"><a href="http://pau.edu.tr/bilgisayar">Pamukkale Ü.</a></td>
+<td align="center">112000</td><td align="center">331,541</td><td align="center" <p><font face="tahoma" color="maroon" size="3">Bilgisayar Müh.</td>
+</tr>
+<tr height="40">
+<td align="center" <p><font face="tahoma" color="maroon" size="3"><a href="http://bilgisayarmuh.cbu.edu.tr">Manisa Celal B.(İ.Ö)(ing.)</a></td>
+<td align="center">114000</td><td align="center">329,926</td>
+<td align="center" <p><font face="tahoma" color="maroon" size="3">Bilgisayar Müh</td>
+</tr>
+
+<tr height="40">
+<td align="center" <p><font face="tahoma" color="maroon" size="3"><a href="http://yazilimmuh.cbu.edu.tr">Manisa Celal B.</a></td>
+<td align="center">100000</td><td align="center">341,909</td>
+<td align="center" <p><font face="tahoma" color="maroon" size="3">Yazılım Müh</td> 
+</tr>
+
+<tr height="40">
+<td align="center" <p><font face="tahoma" color="maroon" size="3"><a href="http://yazilimmuh.cbu.edu.tr">Manisa Celal B.(İ.Ö)</a></td>
+<td align="center">137000</td><td align="center">312,881</td>
+<td align="center" <p><font face="tahoma" color="maroon" size="3">Yazılım Müh</td>
+</tr>
+
+<tr>
+<td colspan="4" align="center"><img src="img/foto.png"></td>
+</tr>
+
+
+</table>
+
+
+</html>
